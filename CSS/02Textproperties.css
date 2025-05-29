@@ -1,0 +1,20 @@
+header{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    align-content: center;
+    color: rgb(153, 73, 73);
+    text-shadow: 1cqmax;
+}
+main div{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: antiquewhite;
+    text-align: center;
+    text-decoration: none;
+    line-height: 20px;
+   
+
+}
+
+
+*{
+    background-color: rgb(255, 146, 13);
+}
