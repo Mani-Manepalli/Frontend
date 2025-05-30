@@ -1,3 +1,9 @@
+body{
+    margin: 0%;
+    padding: 0%;
+    font-size: 18px;
+
+}
 header{
     background-color: rgb(224, 176, 117);
     height: 100vh;
@@ -12,17 +18,17 @@ section{
     height: 100vh;
     border: 1px solid rgb(224, 176, 117);
     margin: 25px;
+    margin-bottom: 30px;
     padding: 10px;
     border-radius: 20px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    flex-wrap: wrap;
     text-align: left;
 }
 section div{
-
     margin: 1.5px;
 }
 header button{
@@ -46,12 +52,6 @@ header button:hover{
 a{
     text-decoration: none;
 }
-body{
-    margin: 0%;
-    font-size: 18px;
-
-}
-
 *{
     font-family: 'Times New Roman', Times, serif;
 }
@@ -66,6 +66,7 @@ footer div{
     margin:0% ;
     height: 100px;
     display: flex;
+    flex-wrap: wrap;
     flex-direction: column;
     justify-content: center;
     align-items: center;
