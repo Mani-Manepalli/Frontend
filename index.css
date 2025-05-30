@@ -1,0 +1,91 @@
+header{
+    background-color: rgb(224, 176, 117);
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+}
+section{
+    height: 100vh;
+    border: 1px solid rgb(224, 176, 117);
+    margin: 25px;
+    padding: 10px;
+    border-radius: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    text-align: left;
+}
+section div{
+
+    margin: 1.5px;
+}
+header button{
+
+    height: 45px;
+    width: 125px;
+    color: rgb(6, 6, 80);
+    font-weight: 200px;
+    font-size: 16px;
+    border: 0cap;
+    border-radius: 20px;
+    margin: 10px;
+}
+header button:hover{
+
+    color: white;
+    background-color: rgb(6, 6, 80);
+    cursor: pointer;
+
+}
+a{
+    text-decoration: none;
+}
+body{
+    margin: 0%;
+    font-size: 18px;
+
+}
+
+*{
+    font-family: 'Times New Roman', Times, serif;
+}
+h1{
+    color: rgb(6, 6, 80);
+    font-size: 50px;
+}
+footer div{
+
+    background-color:black ;
+    color: white;
+    margin:0% ;
+    height: 100px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.submit{
+
+    height: 25px;
+    width: 75px;
+    margin-top: 16px;
+    background-color: rgb(6, 6, 80);
+    color: white;
+}
+.submit:hover{
+
+    cursor: pointer;
+    background-color: rgb(18, 18, 174);
+}
+input{
+    border-radius: 5px;
+    border: 1px solid rgb(123, 118, 118);
+    margin: 1px;
+}
