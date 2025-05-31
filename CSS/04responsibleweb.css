@@ -1,0 +1,21 @@
+.skills-section {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  justify-content: center;
+}
+
+.skill {
+  background-color: lightblue;
+  padding: 20px;
+  min-width: 100px;
+  flex: 1 1 150px;
+  text-align: center;
+}
+
+/* Mobile view */
+@media (max-width: 600px) {
+  .skill {
+    flex: 1 1 100%;
+  }
+}

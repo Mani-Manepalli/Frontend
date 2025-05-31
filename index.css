@@ -90,3 +90,12 @@ input{
     border: 1px solid rgb(123, 118, 118);
     margin: 1px;
 }
+
+/* @media only screen and (max-width:400px){
+
+    .mobile{
+        width: 100%;
+        background-color: red;
+    }
+
+} */
