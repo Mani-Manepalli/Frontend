@@ -1,1 +1,1 @@
-This repositorie contains HTML - CSS - JS and a standard Protfollio
+This repository contains HTML - CSS - JS and a standard Protfollio
