@@ -90,6 +90,9 @@ input{
     border: 1px solid rgb(123, 118, 118);
     margin: 1px;
 }
+img{
+    padding-bottom: 10px;
+}
 
 /* @media only screen and (max-width:400px){
 
